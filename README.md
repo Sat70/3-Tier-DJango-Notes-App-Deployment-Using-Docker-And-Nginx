@@ -9,7 +9,7 @@ This is a simple notes app built with React and Django.
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/LondheShubham153/django-notes-app.git
+[git clone https://github.com/LondheShubham153/django-notes-app.git](https://github.com/Sat70/3-Tier-DJango-Notes-App-Deployment-Using-Docker-And-Nginx.git)
 ```
 
 2. Build the app
